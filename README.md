@@ -1,21 +1,16 @@
 # BankIR Simulated Banking Front-end
 
 ## Features
-
-## Motivation
+Users can register and log in with personal accounts. They can practice making transactions, transfers and earning interest for educational purposes. 
 
 ## Technologies
 
 - React
 - JavaScript
-- MongoDB
-- Node.js
 - React-testing-library
 - Jest
 - Styled-components
 - CSS
-
-## More About the Project
 
 ## Possible Features
 
