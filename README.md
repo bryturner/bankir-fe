@@ -1,7 +1,9 @@
 # BankIR Simulated Banking Front-end
 
-## Features
-Users can register and log in with personal accounts. They can practice making transactions, transfers and earning interest for educational purposes. 
+Users can register and log in with personal accounts. They can practice making transactions, transfers and earning interest for educational purposes. To view the back-end code used for this project, click [here](https://github.com/bryturner/bankir-be)
+
+![bankir account view mock](./src/assets/bankir-acct-mock.png)
+![bankir registration view mock](./src/assets//bankir-reg-mock.png)
 
 ## Technologies
 
