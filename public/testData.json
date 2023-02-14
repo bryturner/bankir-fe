@@ -1,0 +1,88 @@
+{
+  "firstName": "Bryan",
+  "standard": {
+    "balance": 2000.0,
+    "apy": 4.5,
+    "earnings": 900.0
+  },
+  "premium": {
+    "balance": 5000.0,
+    "apy": 8.5,
+    "earnings": 500.0
+  },
+  "messages": [
+    {
+      "type": "deposit",
+      "amount": 50.44,
+      "date": 1662154610849,
+      "account": "standard",
+      "id": "msg1"
+    },
+    {
+      "type": "withdrawal",
+      "amount": 50.44,
+      "date": 1662154610849,
+      "account": "standard",
+      "id": "2"
+    },
+    {
+      "type": "transfer",
+      "amount": 50.44,
+      "date": 1662154610849,
+      "transferTo": "standard",
+      "transferFrom": "premium",
+      "id": "3"
+    },
+    {
+      "type": "transfer",
+      "amount": 50.44,
+      "date": 1662154610849,
+      "transferTo": "user1",
+      "transferFrom": "premium",
+      "id": "4"
+    },
+    {
+      "type": "interest",
+      "premium": "405.29",
+      "standard": "200.23",
+      "date": "2022-09-09T00:35:56.570Z",
+      "id": "msg09-09T00:35:56.570"
+    }
+  ],
+  "accountTotal": 7000.0,
+  "earningsTotal": 1400.0,
+  "stdTransactions": [
+    {
+      "date": "2/2/22",
+      "description": "This is a description",
+      "amount": 30.95,
+      "id": "std2222"
+    },
+    {
+      "date": "1/1/22",
+      "description": "This is a something",
+      "amount": -50.44,
+      "id": "std1122"
+    }
+  ],
+  "prmTransactions": [
+    {
+      "date": "2/2/23",
+      "description": "This is a premium",
+      "amount": -30.95,
+      "id": "prm2222"
+    },
+    {
+      "date": "1/1/22",
+      "description": "This is premium something",
+      "amount": 1000,
+      "id": "prm1122"
+    }
+  ],
+  "isDefault": true,
+  "modal": {
+    "type": "deposit",
+    "amount": "20.00",
+    "account": "Savings"
+  }
+}
