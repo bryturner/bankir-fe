@@ -1,6 +1,5 @@
 {
-  "homepage": "https://bryturner.github.io/bankir-both",
-  "name": "bankir1.0-versel",
+  "name": "bankir-fe",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
